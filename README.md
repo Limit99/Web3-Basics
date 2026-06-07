@@ -92,3 +92,20 @@ Simulasi cara kerja smart contract:
 ### 🔹 pengenalan_web3.py
 ```bash
 python pengenalan_web3.py
+```
+### 🔹️ simulasi_wallet.py
+```bash
+python simulasi_wallet.py
+```
+### 🔹️ baca_blockchain.py
+```bash
+python baca_blockchain.py
+```
+### 🔹️ simulasi_smart_contract.py
+```bash
+python simulasi_smart_contract.py
+```
+
+## 🚀 Cara Mulai
+git clone https://github.com/Limit99/Web3-Basics.git
+cd Web3-Basics
